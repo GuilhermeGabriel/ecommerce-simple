@@ -2,7 +2,7 @@
 ## Esse projeto ainda está em desenvolvimento 
 Ecommerce simple to learn react js
 
-<image src="./ecommerce-simple/ecommerce-ronaldo/home.jpeg"/>
+<image src="./ecommerce-ronaldo/home.jpeg"/>
 
 ## Run
 ```
